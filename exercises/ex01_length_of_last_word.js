@@ -17,7 +17,7 @@ function lengthOfLastWord(s) {
   // 1) Ignorer les espaces à la fin
   // 2) Compter les caractères jusqu'au prochain espace ou le début
 }
-
+test = "github"
 // --------------------
 // Tests (au moins 3)
 // --------------------
